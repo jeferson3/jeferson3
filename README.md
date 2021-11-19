@@ -13,9 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align='center'>
-  Hi there 👋 I'm Jeferson Gomes 👨‍💻
+  Hi there 👋
 </h1>
-
+<h2 align='center'>
+  I'm Jeferson 👨‍💻
+</h2>
 <p align='center'>
  I'm backend developer.
 </p>
