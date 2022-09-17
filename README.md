@@ -22,10 +22,13 @@ Here are some ideas to get you started:
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/jeferson3/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=lat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100032126169867">
-    <img src="https://img.shields.io/badge/facebook-%23276DC3.svg?&style=for-the-badge&logo=facebook&logoColor=white" />        
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=lat-square&logo=facebook&logoColor=white" />        
+  </a>
+  <a href="https://www.instagram.com/jeferson_gomes3/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=lat-square&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
 
@@ -44,6 +47,7 @@ Here are some ideas to get you started:
       <img align="center" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
       <img align="center" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
       <img align="center" alt="React JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+      <img align="center" alt="React JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
       <img align="center" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
       <img align="center" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
       <img align="center" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
